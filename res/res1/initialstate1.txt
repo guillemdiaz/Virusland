@@ -1,0 +1,5 @@
+region girona
+present_viruses
+virus_name Covid19
+sick_percentage 10
+*

@@ -1,0 +1,25 @@
+vaccines
+name VaccineA
+type inhibiting
+target_virus VirusA
+effectiveness 90
+activation_time 5
+duration 50
+*
+name VaccineB
+type attenuating
+target_virus VirusB
+activation_time 7
+duration 60
+mortality_rate_reduction 10
+disease_duration_reduction 20
+disease_probability_reduction 30
+contagion_rate_reduction 40
+*
+name VaccineC
+type inhibiting
+target_virus VirusC
+effectiveness 85
+activation_time 10
+duration 70
+*

@@ -1,0 +1,65 @@
+families
+name Orthomyxoviridae
+max_variation_percentage 15
+*
+name Coronaviridae
+max_variation_percentage 30
+*
+name Hepadnaviridae
+max_variation_percentage 0 # not applicable
+*
+virus
+name Virus1
+type RNA
+family Orthomyxoviridae
+disease_probability 0.9
+incubation 1
+latency 2
+disease_duration 6
+contagion_duration 6
+immunity_duration 40
+mortality 0.1
+contagion_rate 0.4
+mutation_probability_copy 0.1
+mutation_probability_coincidence 0.005
+*
+name Virus2
+type RNA
+family Coronaviridae
+disease_probability 0.7
+incubation 4
+latency 3
+disease_duration 8
+contagion_duration 7
+immunity_duration 100
+mortality 0.15
+contagion_rate 0.5
+mutation_probability_copy 0.2
+mutation_probability_coincidence 0.01
+*
+name Virus3
+type DNA
+family Hepadnaviridae
+disease_probability 0.6
+incubation 5
+latency 4
+disease_duration 3000 # chronic
+contagion_duration 3000  # chronic
+immunity_duration 0   # not applicable (chronic)
+mortality 0.3
+contagion_rate 0.2
+*
+name Virus4
+type RNA
+family Coronaviridae
+disease_probability 0.8
+incubation 2
+latency 2
+disease_duration 7
+contagion_duration 6
+immunity_duration 50
+mortality 0.2
+contagion_rate 0.4
+mutation_probability_copy 0.001
+mutation_probability_coincidence 0.006
+*

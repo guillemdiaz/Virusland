@@ -1,0 +1,38 @@
+regions
+name north
+inhabitants 20000000
+internal_mobility 10
+*
+name south
+inhabitants 10000000
+internal_mobility 7
+*
+name east
+inhabitants 15000000
+internal_mobility 16
+*
+name west
+inhabitants 5000000
+internal_mobility 20
+*
+limits_and_mobility
+north
+south 0%
+east 23%
+west 18%
+*
+south
+north 0%
+east 30%
+west 22%
+*
+east
+north 15%
+south 23%
+west 0%
+*
+west
+north 16%
+south 22%
+east 0%
+*

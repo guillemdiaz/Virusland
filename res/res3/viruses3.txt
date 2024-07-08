@@ -1,0 +1,51 @@
+families
+name family1
+max_variation_percentage 10
+*
+name family2
+max_variation_percentage 5
+*
+name family3
+max_variation_percentage 10
+*
+virus
+name VirusX
+type RNA
+family family1
+disease_probability 0.7
+incubation 25
+latency 35
+disease_duration 55
+contagion_duration 40
+immunity_duration 100
+mortality 0.4
+contagion_rate 0.8
+mutation_probability_copy 0.004
+mutation_probability_coincidence 0.009
+*
+name VirusY
+type RNA
+family family2
+disease_probability 0.5
+incubation 70
+latency 50
+disease_duration 80
+contagion_duration 80
+immunity_duration 300
+mortality 0.3
+contagion_rate 0.5
+mutation_probability_copy 0.008
+mutation_probability_coincidence 0.05
+*
+name VirusZ
+type DNA
+family family3
+disease_probability 0.9
+incubation 50
+latency 30
+disease_duration 35
+contagion_duration 25
+immunity_duration 10
+mortality 0.3
+contagion_rate 0.4
+*

@@ -1,0 +1,68 @@
+regions
+name region1
+inhabitants 1000000
+internal_mobility 5
+*
+name region2
+inhabitants 500000
+internal_mobility 6
+*
+name region3
+inhabitants 750000
+internal_mobility 7
+*
+name region4
+inhabitants 250000
+internal_mobility 4
+*
+name region5
+inhabitants 35000
+internal_mobility 1
+*
+name region6
+inhabitants 10000
+internal_mobility 10
+*
+limits_and_mobility
+region1
+region2 3%
+region3 5%
+region4 1%
+region5 12%
+region6 25%
+*
+region2
+region1 2%
+region3 4%
+region4 3%
+region5 4%
+region6 29%
+*
+region3
+region1 0%
+region2 6%
+region4 2%
+region5 2%
+region6 9%
+*
+region4
+region1 7%
+region2 2%
+region3 2%
+region5 1%
+region6 10%
+*
+region5
+region1 7%
+region2 2%
+region3 2%
+region4 1%
+region6 0%
+*
+region6
+region1 7%
+region2 2%
+region3 5%
+region4 7%
+region5 19%
+*

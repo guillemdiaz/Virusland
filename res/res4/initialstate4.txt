@@ -1,0 +1,150 @@
+region hub
+present_viruses
+virus_name VirusA
+sick_percentage 5
+*
+region subhub1
+present_viruses
+virus_name VirusB
+sick_percentage 3
+*
+region subhub2
+present_viruses
+virus_name VirusC
+sick_percentage 2
+*
+region subhub3
+present_viruses
+virus_name VirusA
+sick_percentage 4
+*
+region subhub4
+present_viruses
+virus_name VirusB
+sick_percentage 6
+*
+region region1
+present_viruses
+virus_name VirusC
+sick_percentage 1
+*
+region region2
+present_viruses
+virus_name VirusA
+sick_percentage 3
+*
+region region3
+present_viruses
+virus_name VirusB
+sick_percentage 2
+*
+region region4
+present_viruses
+virus_name VirusC
+sick_percentage 4
+*
+region region5
+present_viruses
+virus_name VirusA
+sick_percentage 5
+*
+region region6
+present_viruses
+virus_name VirusB
+sick_percentage 3
+*
+region region7
+present_viruses
+virus_name VirusC
+sick_percentage 2
+*
+region region8
+present_viruses
+virus_name VirusA
+sick_percentage 4
+*
+region region9
+present_viruses
+virus_name VirusB
+sick_percentage 6
+*
+region region10
+present_viruses
+virus_name VirusC
+sick_percentage 1
+*
+region region11
+present_viruses
+virus_name VirusA
+sick_percentage 3
+*
+region region12
+present_viruses
+virus_name VirusB
+sick_percentage 2
+*
+region region13
+present_viruses
+virus_name VirusC
+sick_percentage 4
+*
+region region14
+present_viruses
+virus_name VirusA
+sick_percentage 5
+*
+region region15
+present_viruses
+virus_name VirusB
+sick_percentage 3
+*
+region region16
+present_viruses
+virus_name VirusC
+sick_percentage 2
+*
+region region17
+present_viruses
+virus_name VirusA
+sick_percentage 4
+*
+region region18
+present_viruses
+virus_name VirusB
+sick_percentage 6
+*
+region region19
+present_viruses
+virus_name VirusC
+sick_percentage 1
+*
+region region20
+present_viruses
+virus_name VirusA
+sick_percentage 3
+*
+region region21
+present_viruses
+virus_name VirusB
+sick_percentage 2
+*
+region region22
+present_viruses
+virus_name VirusC
+sick_percentage 4
+*
+region region23
+present_viruses
+virus_name VirusA
+sick_percentage 5
+*
+region region24
+present_viruses
+virus_name VirusB
+sick_percentage 3
+*
+region region25
+present_viruses
+virus_name VirusC
+sick_percentage 2
+*

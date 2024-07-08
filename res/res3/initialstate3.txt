@@ -1,0 +1,22 @@
+region east
+present_viruses
+virus_name VirusY
+sick_percentage 2
+*
+region west
+present_viruses
+virus_name VirusX
+sick_percentage 5
+virus_name VirusZ
+sick_percentage 3
+*
+region south
+present_viruses
+virus_name VirusY
+sick_percentage 10
+*
+region north
+present_viruses
+virus_name VirusX
+sick_percentage 20
+*

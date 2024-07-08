@@ -1,0 +1,36 @@
+region region1
+present_viruses
+virus_name Virus1
+sick_percentage 5
+*
+region region2
+present_viruses
+virus_name Virus2
+sick_percentage 1
+virus_name Virus3
+sick_percentage 5
+*
+region region3
+present_viruses
+virus_name Virus1
+sick_percentage 5
+virus_name Virus4
+sick_percentage 5
+virus_name Virus3
+sick_percentage 30
+*
+region region4
+present_viruses
+virus_name Virus2
+sick_percentage 10
+*
+region region5
+present_viruses
+virus_name Virus3
+sick_percentage 50
+*
+region region6
+present_viruses
+virus_name Virus4
+sick_percentage 20
+*

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gs-algo-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gs-algo-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

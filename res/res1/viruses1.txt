@@ -1,0 +1,19 @@
+families
+name Coronaviridae
+max_variation_percentage 25
+*
+virus
+name Covid19
+type RNA
+family Coronaviridae
+disease_probability 0.7
+incubation 3
+latency 2
+disease_duration 3
+contagion_duration 3
+immunity_duration 5
+mortality 0.1
+contagion_rate 0.4
+mutation_probability_copy 0.001
+mutation_probability_coincidence 0.005
+*

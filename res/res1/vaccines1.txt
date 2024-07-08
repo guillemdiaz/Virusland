@@ -1,0 +1,8 @@
+vaccines
+name Vaccine1
+type inhibiting
+target_virus Covid19
+effectiveness 75
+activation_time 2
+duration 50
+*

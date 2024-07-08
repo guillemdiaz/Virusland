@@ -1,0 +1,35 @@
+vaccines
+name Vaccine1
+type attenuating
+target_virus Virus1
+activation_time 4
+duration 100
+mortality_rate_reduction 90
+disease_duration_reduction 30
+disease_probability_reduction 60
+contagion_rate_reduction 30
+*
+name Vaccine2
+type inhibiting
+target_virus Virus2
+effectiveness 50
+activation_time 5
+duration 200
+*
+name Vaccine3
+type inhibiting
+target_virus Virus3
+effectiveness 75
+activation_time 2
+duration 50
+*
+name Vaccine4
+type attenuating
+target_virus Virus4
+activation_time 5
+duration 10
+mortality_rate_reduction 85
+disease_duration_reduction 65
+disease_probability_reduction 60
+contagion_rate_reduction 25
+*

@@ -1,0 +1,16 @@
+regions
+name girona
+inhabitants 1000
+internal_mobility 2
+*
+name figueres
+inhabitants 1000
+internal_mobility 2
+*
+limits_and_mobility
+girona
+figueres 10%
+*
+figueres
+girona 10%
+*
